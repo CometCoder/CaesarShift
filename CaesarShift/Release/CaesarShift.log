@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  CaesarShift.cpp
+CaesarShift.cpp(74): warning C4018: '<': signed/unsigned mismatch
+CaesarShift.cpp(136): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 93 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CaesarShift.vcxproj -> C:\Users\Garrett\documents\visual studio 2015\Projects\CaesarShift\Release\CaesarShift.exe
+  CaesarShift.vcxproj -> C:\Users\Garrett\documents\visual studio 2015\Projects\CaesarShift\Release\CaesarShift.pdb (Full PDB)
